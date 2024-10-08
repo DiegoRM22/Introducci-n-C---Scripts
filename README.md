@@ -1,3 +1,5 @@
+Se han usado diferentes recursos como los Tag de los objetos, así como las funciones para tratarlas (GameObject.FindObjectWithTag()), además de las figuras básicas 3D y, por supuesto, el inspector de Unity para cambiar las variables públicas. Además, se han empleado varias funciones de la clase Vector3 para resolver operaciones entre este tipo de datos.
+
 Ejercicio 1
 ![GIF de la ejecución](gifs/Ejercicio1.gif)
 
